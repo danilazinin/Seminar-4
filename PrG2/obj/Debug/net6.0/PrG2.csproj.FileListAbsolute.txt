@@ -1,0 +1,15 @@
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG2/bin/Debug/net6.0/PrG2
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG2/bin/Debug/net6.0/PrG2.deps.json
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG2/bin/Debug/net6.0/PrG2.runtimeconfig.json
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG2/bin/Debug/net6.0/PrG2.dll
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG2/bin/Debug/net6.0/PrG2.pdb
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG2/obj/Debug/net6.0/PrG2.csproj.AssemblyReference.cache
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG2/obj/Debug/net6.0/PrG2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG2/obj/Debug/net6.0/PrG2.AssemblyInfoInputs.cache
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG2/obj/Debug/net6.0/PrG2.AssemblyInfo.cs
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG2/obj/Debug/net6.0/PrG2.csproj.CoreCompileInputs.cache
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG2/obj/Debug/net6.0/PrG2.dll
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG2/obj/Debug/net6.0/refint/PrG2.dll
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG2/obj/Debug/net6.0/PrG2.pdb
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG2/obj/Debug/net6.0/PrG2.genruntimeconfig.cache
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG2/obj/Debug/net6.0/ref/PrG2.dll

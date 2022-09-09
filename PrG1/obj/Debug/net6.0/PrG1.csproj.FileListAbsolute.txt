@@ -1,0 +1,15 @@
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG1/obj/Debug/net6.0/PrG1.csproj.AssemblyReference.cache
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG1/obj/Debug/net6.0/PrG1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG1/obj/Debug/net6.0/PrG1.AssemblyInfoInputs.cache
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG1/obj/Debug/net6.0/PrG1.AssemblyInfo.cs
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG1/obj/Debug/net6.0/PrG1.csproj.CoreCompileInputs.cache
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG1/bin/Debug/net6.0/PrG1
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG1/bin/Debug/net6.0/PrG1.deps.json
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG1/bin/Debug/net6.0/PrG1.runtimeconfig.json
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG1/bin/Debug/net6.0/PrG1.dll
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG1/bin/Debug/net6.0/PrG1.pdb
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG1/obj/Debug/net6.0/PrG1.dll
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG1/obj/Debug/net6.0/refint/PrG1.dll
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG1/obj/Debug/net6.0/PrG1.pdb
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG1/obj/Debug/net6.0/PrG1.genruntimeconfig.cache
+/Users/danilazinin/Desktop/Программирование/Лекция-3 Семминар 4/PrG1/obj/Debug/net6.0/ref/PrG1.dll
